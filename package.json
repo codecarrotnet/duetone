@@ -1,0 +1,21 @@
+{
+    "name": "duetone",
+    "displayName": "duetone",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DueTone",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DueTone-color-theme.json"
+            }
+        ]
+    }
+}
